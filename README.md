@@ -1,6 +1,6 @@
 # 💻 Web Development Projects
 
-A collection of front-end web development projects showcasing animation, design, and modern web technologies like **Next.js**, **TypeScript**, and **npm** tooling.
+A collection of front-end web development projects showcasing animation, design, and modern web technologies like **Next.js**, **TypeScript**, **SVG**, and **npm** tooling.
 
 ---
 
